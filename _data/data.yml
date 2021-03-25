@@ -49,11 +49,12 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profilo
     summary: |
-      Ciao, il mio nome è Marien e per ora sono uno studente Universitario all'Università di Genova. Mi piace molto internet e quello che ci gira intorno,  
-      dal web, alle applicazioni android e ios, da anni ho sempre gestito Forum e Siti web personali (dedicato al mondo dei videogiochi e intrattenimento), su Server in remoto dedicati, con 
-      tecnologia LAMP (apache) e LEMP (nginx).
+      Ciao, il mio nome è Marien e per ora sono uno studente Universitario all'Università di Genova. 
+      Mi piace molto internet e quello che ci gira intorno, dal web, alle applicazioni android/ios, al network quali server e cloud.
+      Da anni ho sempre gestito Forum e Siti web personali (dedicato al mondo dei videogiochi e intrattenimento), su Server in remoto dedicati e vps, 
+      con tecnologia LAMP (apache) e LEMP (nginx).
 education:
     - degree: Informatica
       university: Università di Genova
