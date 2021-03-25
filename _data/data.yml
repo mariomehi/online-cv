@@ -51,104 +51,61 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Ciao, il mio nome è Marien.
+      Ciao, il mio nome è Marien e per ora sono uno studente Universitario all'Università di Genova. Mi piace molto internet e quello che ci gira intorno,  
+      dal web, alle applicazioni android e ios, da anni ho sempre gestito Forum e Siti web personali (dedicato al mondo dei videogiochi e intrattenimento), su Server in remoto dedicati, con 
+      tecnologia LAMP (apache) e LEMP (nginx).
 education:
     - degree: Informatica
       university: Università di Genova
       time: 2017 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        adipiscing elit.
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Freelance Web Developer
+      time: 2010 - 2018
+      company: Freelance
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Ho iniziato a lavorare su diversi progetti personali, alcuni legati alla piattaforma InvisionPowerBoard, e alcuni siti web personali dedicati
+        ai videogiochi, ma poi accantonato tutto per iniziare l'università ed imparare i linguaggi di programmazione.
+        I linguaggi di programmazione con cui ho cominciato ad interagire sono i seguenti:
+          - HTML e CSS
+          - PHP e MySQL
 projects:
-    title: Projects
+    title: Progetti
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I progetti in questa sezione sono quasi tutti didattici e universitari, alcuni realizzati da soli alcuni in collaborazione con 
+      colleghi universitari.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Saw2020
+        link: "https://github.com/mariomehi/saw2020"
+        tagline: "Un'applicazione web responsive per film in stile Netflix, con scheda di ogni film e valutazione di esso."
 
 skills:
     title: Skills &amp;
 
     toolset:
       - name: C/C++
-        level: 70%
-
-      - name: C#
         level: 65%
 
+      - name: C#
+        level: 60%
+
       - name: Java
-        level: 70%
+        level: 65%
 
       - name: HTML5 & CSS
         level: 80%
 
-      - name: Javascript
+      - name: Javascript (jQuery)
         level: 70%
 
       - name: PHP & MySQL
+        level: 70%
+        
+      - name: Curl e RestAPI
         level: 70%
 
 footer: >
