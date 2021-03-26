@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Marien Mehillka   
@@ -55,6 +55,7 @@ career-profile:
       Mi piace molto internet e quello che ci gira intorno, dal web, alle applicazioni android/ios, al network quali server e cloud.
       Da anni ho sempre gestito Forum e Siti web personali (dedicato al mondo dei videogiochi e intrattenimento), su Server in remoto dedicati e vps, 
       con tecnologia LAMP (apache) e LEMP (nginx).
+      Studente al 3 anno di Università di Genova con brevi esperienze di laboratori interni in ambito di Sviluppatore nel corso delle quali ha dato prova di impegno, motivazione e passione per un settore così complesso eppure coinvolgente come quello di Informatica. Attitudine all'ascolto, capacità di apprendimento rapido e grinta accompagnati ad una naturale propensione per il lavoro di squadra e obiettivi dimostrati in ambito scolastico e personale.
 education:
     - degree: Informatica
       university: Università di Genova
@@ -65,7 +66,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Freelance Web Developer
+    - role: Web Developer
       time: 2010 - 2018
       company: Freelance
       details: |
@@ -104,7 +105,7 @@ skills:
         level: 70%
 
       - name: PHP & MySQL
-        level: 70%
+        level: 75%
         
       - name: Curl e RestAPI
         level: 70%
