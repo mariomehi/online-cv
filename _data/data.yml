@@ -88,7 +88,7 @@ projects:
     title: Progetti
     intro: >
       I progetti in questa sezione sono quasi tutti didattici e universitari, alcuni realizzati da solo e altri in collaborazione con 
-      colleghi universitari. Nel corso di Sviluppo Applicazioni Web io e un collega universitario abbiamo realizzato un sito clone di Netflix, senza la parte dello streaming, utilizzando tecnologie web come Ajax (jQuery), RestAPI e cURL in PHP.
+      colleghi universitari. Nel corso di Sviluppo Applicazioni Web io e un collega universitario abbiamo realizzato un sito clone di Netflix, senza la parte dello streaming, utilizzando tecnologie web come Ajax (jQuery), RestAPI e cURL in PHP:
     assignments:
       - title: Saw2020
         link: "https://github.com/mariomehi/saw2020"
