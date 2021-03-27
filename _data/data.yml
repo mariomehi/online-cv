@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Marien Mehillka   
-    tagline: Junior Full Stack Developer
-    avatar: index.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Junior Web Developer
+    avatar: profilo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mario.mehi@hotmail.it
@@ -22,7 +22,7 @@ sidebar:
     bitbucket:
     twitter: '@mariomehi'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: mariomehi
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -30,16 +30,16 @@ sidebar:
         level: Madrelingua
 
       - idiom: Italiano
-        level: Madrelingua*
+        level: Professionale
 
       - idiom: Inglese
-        level: Scolastico
+        level: Intermedio
         
       - idiom: Francese
         level: Scolastico
 
     interests:
-      - item: Palestra (pesi)
+      - item: Tecnologia
         link:
 
       - item: Viaggiare
@@ -51,11 +51,11 @@ sidebar:
 career-profile:
     title: Profilo
     summary: |
-      Ciao, il mio nome è Marien e per ora sono uno studente Universitario all'Università di Genova. 
-      Mi piace molto internet e quello che ci gira intorno, dal web, alle applicazioni android/ios, al network quali server e cloud.
-      Da anni ho sempre gestito Forum e Siti web personali (dedicato al mondo dei videogiochi e intrattenimento), su Server in remoto dedicati e vps, 
-      con tecnologia LAMP (apache) e LEMP (nginx).
-      Studente al 3 anno di Università di Genova con brevi esperienze di laboratori interni in ambito di Sviluppatore nel corso delle quali ha dato prova di impegno, motivazione e passione per un settore così complesso eppure coinvolgente come quello di Informatica. Attitudine all'ascolto, capacità di apprendimento rapido e grinta accompagnati ad una naturale propensione per il lavoro di squadra e obiettivi dimostrati in ambito scolastico e personale.
+      Ciao, il mio nome è Marien, studente al 3 anno di Università di Genova con brevi esperienze di laboratori interni in ambito di Sviluppatore nel corso delle quali ha dato 
+      prova di impegno, motivazione e passione per un settore così complesso eppure coinvolgente come quello dell'Informatica.
+      Attitudine all'ascolto, capacità di apprendimento rapido e grinta accompagnati ad una naturale propensione per il lavoro di squadra e 
+      obiettivi dimostrati in ambito scolastico e personale.
+      Appassionato di internet e quello che ci gira intorno, dal web, alle applicazioni android/ios, a reti e network quali server e cloud.
 education:
     - degree: Informatica
       university: Università di Genova
