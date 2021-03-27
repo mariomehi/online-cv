@@ -61,10 +61,16 @@ education:
       university: Università di Genova
       time: 2018 - 2021
       details: |
-         Nel 2018 iniziai l'Università di Genova con il corso in Informatica, poichè volevo approfondire le mie conoscenze in questo ambito e imparare nuovi linguaggi di programmazione. 
+         Nel 2018 iniziai l'Università di Genova con il corso in Informatica, andando ad approfondire le mie conoscenze in questo ambito e imparare nuovi linguaggi di programmazione. 
          Ho imparato C e C++, Java, C# (basi e piccoli progetti, Reti e Networking.
-          - Bullet point
-          - Bullet point
+         Linguaggi a oggetti come Java e C#, le basi e qualche piccolo progetto. Ed infine anche C (bash) e C++.
+         Linguaggi e tecnologie trattate nei diversi corsi universitari:
+          - HTML e CSS, Javascript (DOM, Ajax e jQuery)
+          - PHP e MySQL (postresql)
+          - C / C++ (algoritmi sorting, liste, puntatori, pile, code, dizionario, grafi)
+          - Linguaggi a oggetti: Java, C#
+          - Python (librerie Pandas e NumPy)
+
 experiences:
     - role: Web Developer
       time: 2010 - 2018
@@ -76,16 +82,13 @@ experiences:
         Ho sempre usato CMS per creare community in primis Invisionpowerboard e Wordpress per i blog. 
         Gestivo la parte front-end con piccole modifiche a questi CMS e soprattutto la parte back-end in PHP e Mysql.
         All'inizio era solo un hobby ma poi è diventato quasi un lavoro perchè ho iniziato ad usare Google Adsense per guadagnare con gli sponsor.
-        Poi accantonai tutto per iniziare l'università ed imparare i linguaggi di programmazione ed alcuni di questi sono:
-          - HTML e CSS, Javascript (DOM, Ajax e jQuery)
-          - PHP e MySQL (postresql)
-          - C / C++ (algoritmi sorting, liste, puntatori, pile, code, dizionario, grafi)
-          - Linguaggi a oggetti: Java, C#
+          - Web server Apache e Nginx e linguaggi HTML, CSS e Javascript, conoscenza intermedia/avanzata.
+          - PHP e MySQL, conoscenza intermedia per scopi personali e universitari.
 projects:
     title: Progetti
     intro: >
       I progetti in questa sezione sono quasi tutti didattici e universitari, alcuni realizzati da solo e altri in collaborazione con 
-      colleghi universitari.
+      colleghi universitari. Nel corso di Sviluppo Applicazioni Web io e un collega universitario abbiamo realizzato un sito clone di Netflix, senza la parte dello streaming, utilizzando tecnologie web come Ajax (jQuery), RestAPI e cURL in PHP.
     assignments:
       - title: Saw2020
         link: "https://github.com/mariomehi/saw2020"
