@@ -59,10 +59,10 @@ career-profile:
 education:
     - degree: Informatica
       university: Università di Genova
-      time: 2017 - 2021
+      time: 2018 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
+         Nel 2018 iniziai l'Università di Genova con il corso in Informatica, poichè volevo approfondire le mie conoscenze in questo ambito e imparare nuovi linguaggi di programmazione. 
+         Ho imparato C e C++, Java, C# (basi e piccoli progetti, Reti e Networking.
           - Bullet point
           - Bullet point
 experiences:
@@ -70,11 +70,17 @@ experiences:
       time: 2010 - 2018
       company: Freelance
       details: |
-        Ho iniziato a lavorare su diversi progetti personali, alcuni legati alla piattaforma InvisionPowerBoard, e alcuni siti web personali dedicati
-        ai videogiochi, ma poi accantonato tutto per iniziare l'università ed imparare i linguaggi di programmazione.
-        I linguaggi di programmazione con cui ho cominciato ad interagire sono i seguenti:
-          - HTML e CSS
-          - PHP e MySQL
+        Ho cominciato nel lontano 2007 con Forumfree (cms per creare forum) poichè appassionato di Videogiochi e da li improvvisando piccole modifiche HTML, CSS e PHP. 
+        Dopo qualche anno imparando qualcosa di Linux, ho preso il mio primo server hosting condiviso, per poi passare ad un server dedicato Centos, gestito interamente da riga di commando, per non pagare licenza cPanel. 
+        Ho imparato le basi di Nginx (lemp) e Apache (lamp), e tutte ciò che ne concerne da SSH, DNS, Database Mysql (phpmyadmin) FTP, e Mail server con postfix e dovecot per post SMTP con certificato SSL.
+        Ho sempre usato CMS per creare community in primis Invisionpowerboard e Wordpress per i blog. 
+        Gestivo la parte front-end con piccole modifiche a questi CMS e soprattutto la parte back-end in PHP e Mysql.
+        All'inizio era solo un hobby ma poi è diventato quasi un lavoro perchè ho iniziato ad usare Google Adsense per guadagnare con gli sponsor.
+        Poi accantonai tutto per iniziare l'università ed imparare i linguaggi di programmazione ed alcuni di questi sono:
+          - HTML e CSS, Javascript (DOM, Ajax e jQuery)
+          - PHP e MySQL (postresql)
+          - C / C++ (algoritmi sorting, liste, puntatori, pile, code, dizionario, grafi)
+          - Linguaggi a oggetti: Java, C#
 projects:
     title: Progetti
     intro: >
