@@ -76,7 +76,7 @@ p {
         max-width: 100px;
         margin-bottom: 15px;
         border: 0px solid #fff;
-        border-radius: 100%;
+        border-radius: 500%;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
     .contact-list {
@@ -109,7 +109,7 @@ p {
     }
     .education-container {
         .item {
-            margin-bottom: 15px;
+            margin-bottom: 10px;
             &:last-child {
                 margin-bottom: 0;
             }
@@ -172,7 +172,7 @@ p {
 
     .experiences-section, .educations-section {
         .item {
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
     }
     .upper-row {
