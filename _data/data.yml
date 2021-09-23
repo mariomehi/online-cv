@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: mario.mehi@hotmail.it
     phone: +39 3381598778
-    website: mariomehi.github.io #do not add http://
+    website: - #do not add http://
     linkedin: mariomehi
-    github: mariomehi
+    github: github.com/mariomehi
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -45,7 +45,7 @@ sidebar:
       - item: Viaggiare
         link:
 
-      - item: Leggere e Cucinare
+      - item: Cucinare
         link:
 
 career-profile:
@@ -62,14 +62,14 @@ education:
       time: 2018 - 2021
       details: |
          Nel 2018 iniziai l'Università di Genova con il corso in Informatica, andando ad approfondire le mie conoscenze in questo ambito e imparare nuovi linguaggi di programmazione. 
-         Ho imparato C e C++, Java, C# (basi e piccoli progetti, Reti e Networking.
+         Ho imparato C e C++, Java, C# (le basi e piccoli progetti) Reti e Networking.
          Linguaggi a oggetti come Java e C#, le basi e qualche piccolo progetto. Ed infine anche C (bash) e C++.
          Linguaggi e tecnologie trattate nei diversi corsi universitari:
           - HTML e CSS, Javascript (DOM, Ajax e jQuery)
-          - PHP e MySQL (postresql)
-          - C / C++ (algoritmi sorting, liste, puntatori, pile, code, dizionario, grafi)
+          - PHP e MySQL (postgresql)
+          - C / C++ (algoritmi sorting, liste, puntatori, pile, code, dizionari, alberi, grafi)
           - Linguaggi a oggetti: Java, C#
-          - Python (librerie Pandas e NumPy)
+          - Python (librerie Pandas e NumPy per il corso di Data Science)
 
 experiences:
     - role: Web Developer
@@ -82,42 +82,53 @@ experiences:
         Ho sempre usato CMS per creare community in primis Invisionpowerboard e Wordpress per i blog. 
         Gestivo la parte front-end con piccole modifiche a questi CMS e soprattutto la parte back-end in PHP e Mysql.
         All'inizio era solo un hobby ma poi è diventato quasi un lavoro perchè ho iniziato ad usare Google Adsense per guadagnare con gli sponsor.
-          - Web server Apache e Nginx e linguaggi HTML, CSS e Javascript, conoscenza intermedia/avanzata.
-          - PHP e MySQL, conoscenza intermedia per scopi personali e universitari.
+          - Web server Apache e Nginx e linguaggi HTML, CSS e Javascript, conoscenza base/intermedia.
+          - PHP e MySQL, conoscenza intermedia per scopi personali e universitari, come il progetto di Saw.
 projects:
     title: Progetti
     intro: >
       I progetti in questa sezione sono quasi tutti didattici e universitari, alcuni realizzati da solo e altri in collaborazione con 
-      colleghi universitari. Nel corso di Sviluppo Applicazioni Web io e un collega universitario abbiamo realizzato un sito clone di Netflix, senza la parte dello streaming, utilizzando tecnologie web come Ajax (jQuery), RestAPI e cURL in PHP:
+      colleghi universitari. Nel corso di Sviluppo Applicazioni Web io e un collega universitario abbiamo realizzato un sito clone di Netflix, senza la parte del video streaming, utilizzando tecnologie web come Ajax (jQuery), RestAPI e cURL in PHP:
     assignments:
-      - title: Saw2020
-        link: "https://github.com/mariomehi/saw2020"
-        tagline: "Un'applicazione web responsive per film in stile Netflix, con scheda di ogni film e valutazione di esso."
+      - title: Saw2021
+        link: "https://github.com/mariomehi/saw2021"
+        tagline: "Un'applicazione web responsive per film in stile Netflix, con scheda di ogni film e valutazione di esso. E parte Admin con inserimento Film."
+        
+      - title: Regressione di Poisson
+        link: "https://github.com/mariomehi/python-data-science"
+        tagline: "Predizione dei possibili risultati fra due squadre. Usando librerie come Pandas, Matplotlib e Scipy."
+        
+      - title: Android app per sorveglianza
+        link: "https://github.com/mariomehi/android-cctv"
+        tagline: "Applicazione Android in Java per video sorveglianza con rilevamento persona, babymonitor e ip-cam con notifica via Email."
 
 skills:
     title: Skills &amp;
 
     toolset:
       - name: C/C++
-        level: 65%
+        level: 45%
 
       - name: C#
-        level: 60%
+        level: 40%
 
       - name: Java
-        level: 65%
+        level: 55%
 
       - name: HTML5 & CSS
         level: 80%
 
       - name: Javascript (jQuery)
-        level: 70%
+        level: 75%
 
       - name: PHP & MySQL
-        level: 75%
+        level: 70%
         
       - name: Curl e RestAPI
         level: 70%
+        
+      - name: Python
+        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> <a href="" target="_blank" rel="nofollow"></a>
+    Autorizzo il trattamento dei miei dati personali presenti nel cv ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 “Codice in materia di protezione dei dati personali” e del GDPR (Regolamento UE 2016/679);
