@@ -76,13 +76,11 @@ experiences:
       time: 2010 - 2018
       company: Freelance
       details: |
-        Ho cominciato nel lontano 2007 con Forumfree (cms per creare forum) poichè appassionato di Videogiochi e da li improvvisando piccole modifiche HTML, CSS e PHP. 
-        Dopo qualche anno imparando qualcosa di Linux, ho preso il mio primo server hosting condiviso, per poi passare ad un server dedicato Centos, gestito interamente da riga di commando, per non pagare licenza cPanel. 
-        Ho imparato le basi di Nginx (lemp) e Apache (lamp), e tutte ciò che ne concerne da SSH, DNS, Database Mysql (phpmyadmin) FTP, e Mail server con postfix e dovecot per post SMTP con certificato SSL.
-        Ho sempre usato CMS per creare community in primis Invisionpowerboard e Wordpress per i blog. 
-        Gestivo la parte front-end con piccole modifiche a questi CMS e soprattutto la parte back-end in PHP e Mysql.
+        Cominciai nel lontano 2007 con Forumfree (cms per creare forum) poichè appassionato di Videogiochi e da li improvvisando piccole modifiche HTML, CSS e PHP. 
+        Dopo qualche anno imparando qualcosa di Linux, presi il mio primo server dedicato Centos, gestito interamente da riga di commando, per non pagare licenza cPanel. 
+        Imparai le basi di Nginx (lemp) e Apache (lamp), e tutte ciò che ne concerne da SSH, DNS, Database Mysql (phpmyadmin) FTP, e Mail server con postfix e dovecot per post SMTP con certificato SSL.
         All'inizio era solo un hobby ma poi è diventato quasi un lavoro perchè ho iniziato ad usare Google Adsense per guadagnare con gli sponsor.
-          - Web server Apache e Nginx e linguaggi HTML, CSS e Javascript, conoscenza base/intermedia.
+          - Web server Apache e Nginx e linguaggi HTML, CSS e Javascript, conoscenza base, e CMS popolari come Wordpress e InvisionPowerBoard
           - PHP e MySQL, conoscenza intermedia per scopi personali e universitari, come il progetto di Saw.
 projects:
     title: Progetti
