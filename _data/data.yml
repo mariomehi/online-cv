@@ -101,7 +101,7 @@ projects:
         tagline: "Applicazione Android in Java per video sorveglianza con rilevamento persona, babymonitor e ip-cam con notifica via Email."
 
 skills:
-    title: Skills &amp;
+    title: Skills
 
     toolset:
       - name: C/C++
