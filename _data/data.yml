@@ -12,10 +12,11 @@ sidebar:
     avatar: profilo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    age: 24/06/1986
     email: mario.mehi@hotmail.it
     phone: +39 3381598778
     website: / #do not add http://
-    linkedin: mariomehi
+    linkedin: linkedin.com/in/mariomehi
     github: github.com/mariomehi
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -105,13 +106,13 @@ skills:
 
     toolset:
       - name: C/C++
-        level: 45%
+        level: 50%
 
       - name: C#
         level: 40%
 
       - name: Java
-        level: 55%
+        level: 60%
 
       - name: HTML5 & CSS
         level: 80%
@@ -123,7 +124,7 @@ skills:
         level: 70%
         
       - name: Curl e RestAPI
-        level: 70%
+        level: 65%
         
       - name: Python
         level: 60%
