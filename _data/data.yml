@@ -15,7 +15,7 @@ sidebar:
     age: 24/06/1986
     email: mario.mehi@hotmail.it
     phone: +39 3381598778
-    website: / #do not add http://
+    website: mariomehi.github.io/
     linkedin: mariomehi
     github: github.com/mariomehi
     telegram: # add your nickname without '@' sign
@@ -58,38 +58,40 @@ career-profile:
       obiettivi dimostrati in ambito scolastico e personale.
       Appassionato di internet e quello che ci gira intorno, dal web, alle applicazioni android/ios, a reti e network quali server e cloud.
 education:
+    - degree: Tecnico Gestione Aziendale Linguistica
+      university: Istituto Professionale per Agricoltura D. Aicardi
+      time: 2002 - 2007
+      details: |
     - degree: Informatica
       university: Università di Genova
       time: 2018 - 2022
       details: |
          Nel 2018 iniziai l'Università di Genova con il corso in Informatica, andando ad approfondire le mie conoscenze in questo ambito e imparare nuovi linguaggi di programmazione. 
-         Ho imparato C e C++, Java, C# (le basi e piccoli progetti) Reti e Networking.
-         Linguaggi a oggetti come Java e C#, le basi e qualche piccolo progetto. Ed infine anche C (bash) e C++.
          Linguaggi e tecnologie trattate nei diversi corsi universitari:
-          - HTML e CSS, Javascript (DOM, Ajax e jQuery)
-          - PHP e MySQL (postgresql)
-          - C / C++ (algoritmi sorting, liste, puntatori, pile, code, dizionari, alberi, grafi)
+          - C / C++ - Le basi di programmazione con Algoritmi e Strutture Dati
+          - HTML, CSS, Javascript e PHP con annesso progetto di Sviluppo Applicazioni Web.
+          - SQL Relazionionale con DBMS PostgreSQL
           - Linguaggi a oggetti: Java, C#
-          - Python (librerie Pandas e NumPy per il corso di Data Science)
+          - Python con librerie Pandas e NumPy per il Data Science
 
 experiences:
     - role: Web Developer
       time: 2010 - 2018
       company: Freelance
       details: |
-        Cominciai nel lontano 2007 con Forumfree (cms per creare forum) poichè appassionato di Videogiochi e da li improvvisando piccole modifiche HTML, CSS e PHP. 
-        Dopo qualche anno imparando qualcosa di Linux, presi il mio primo server dedicato Centos, gestito interamente da riga di commando, per non pagare licenza cPanel. 
-        Imparai le basi di Nginx (lemp) e Apache (lamp), e tutte ciò che ne concerne da SSH, DNS, Database Mysql (phpmyadmin) FTP, e Mail server con postfix e dovecot per post SMTP con certificato SSL.
+        Cominciai nel lontano 2007 con Forumfree, cms per creare forum, poichè appassionato di Videogiochi e imparando i linguaggi come HTML, CSS e PHP. 
+        Dopo qualche anno passai a Linux, con il primo server dedicato in Centos, gestito interamente da riga di commando senza nessun pannello di amministrazione. 
+        Imparai le basi di Nginx e Apache web server, e tutte ciò che ne concerne da SSH, DNS, MySQL, FTP, Mail server con postfix e dovecot per posta SMTP con certificato SSL.
         All'inizio era solo un hobby ma poi è diventato quasi un lavoro perchè ho iniziato ad usare Google Adsense per guadagnare con gli sponsor.
-          - Web server Apache e Nginx e linguaggi HTML, CSS e Javascript, conoscenza base, e CMS popolari come Wordpress e InvisionPowerBoard
-          - PHP e MySQL, conoscenza intermedia per scopi personali e universitari, come il progetto di Saw.
+          - Web server Apache e Nginx e linguaggi HTML, CSS e Javascript, conoscenza base, e CMS popolari come Wordpress e InvisionPower Board
+          - PHP e MySQL, conoscenza intermedia per scopi personali e universitari, come il progetto di Sviluppo applicazioni web.
 projects:
     title: Progetti
     intro: >
-      I progetti in questa sezione sono quasi tutti didattici e universitari, alcuni realizzati da solo e altri in collaborazione con 
-      colleghi universitari. Nel corso di Sviluppo Applicazioni Web io e un collega universitario abbiamo realizzato un sito clone di Netflix, senza la parte del video streaming, utilizzando tecnologie web come Ajax (jQuery), RestAPI e cURL in PHP:
+      I progetti in questa sezione sono tutti didattici e universitari, realizzati in collaborazione con colleghi universitari.
+      Nel corso di Sviluppo Applicazioni Web io e un collega universitario abbiamo realizzato un sito clone di Netflix, senza la parte del video streaming, utilizzando tecnologie web come Ajax (jQuery) e Api:
     assignments:
-      - title: Saw2021
+      - title: Sviluppo Applicazioni Web
         link: "https://github.com/mariomehi/saw2021"
         tagline: "Un'applicazione web responsive per film in stile Netflix, con scheda di ogni film e valutazione di esso. E parte Admin con inserimento Film."
         
@@ -115,19 +117,19 @@ skills:
         level: 60%
 
       - name: HTML5 & CSS
-        level: 80%
+        level: 70%
 
       - name: Javascript (jQuery)
-        level: 75%
+        level: 60%
 
       - name: PHP & MySQL
-        level: 70%
+        level: 60%
         
       - name: Curl e RestAPI
-        level: 65%
+        level: 60%
         
       - name: Python
-        level: 60%
+        level: 50%
         
 footer: >
      Autorizzo il trattamento dei miei dati personali presenti nel cv ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 “Codice in materia di protezione dei dati personali” e del GDPR (Regolamento UE 2016/679).
