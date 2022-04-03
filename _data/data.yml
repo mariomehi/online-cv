@@ -115,7 +115,7 @@ skills:
         level: 50%
 
       - name: C#
-        level: 60%
+        level: 55%
 
       - name: Java
         level: 60%
@@ -124,13 +124,13 @@ skills:
         level: 70%
 
       - name: Javascript (jQuery)
-        level: 60%
+        level: 65%
 
       - name: PHP & MySQL
         level: 60%
         
-      - name: Curl e RestAPI
-        level: 60%
+      - name: RestAPI
+        level: 55%
         
       - name: Python
         level: 50%
