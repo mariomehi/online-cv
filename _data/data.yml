@@ -43,10 +43,10 @@ sidebar:
       - item: Tecnologia
         link:
 
-      - item: Viaggiare
+      - item: Viaggi
         link:
 
-      - item: Cucinare
+      - item: Videogiochi
         link:
 
 career-profile:
@@ -115,7 +115,7 @@ skills:
         level: 50%
 
       - name: C#
-        level: 40%
+        level: 60%
 
       - name: Java
         level: 60%
