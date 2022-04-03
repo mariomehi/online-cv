@@ -59,7 +59,7 @@ career-profile:
       Appassionato di internet e quello che ci gira intorno, dal web, alle applicazioni android/ios, a reti e network quali server e cloud.
 education:
     - degree: Corso FORMATEMP C# .NET
-      university: Istituto Professionale per Agricoltura D. Aicardi
+      university: 
       time: Marzo 2022 - Maggio 2022
       details: Introduzione al mondo .NET, programmazione ad oggetti, code control, C# basics, agile, azure devops, git & tfvc, database, web api.
     - degree: Informatica
