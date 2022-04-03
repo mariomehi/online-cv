@@ -58,10 +58,10 @@ career-profile:
       obiettivi dimostrati in ambito scolastico e personale.
       Appassionato di internet e quello che ci gira intorno, dal web, alle applicazioni android/ios, a reti e network quali server e cloud.
 education:
-    - degree: Tecnico Gestione Aziendale Linguistica
+    - degree: Corso FORMATEMP C# .NET
       university: Istituto Professionale per Agricoltura D. Aicardi
-      time: 2002 - 2007
-      details: |
+      time: Marzo 2022 - Maggio 2022
+      details: Introduzione al mondo .NET, programmazione ad oggetti, code control, C# basics, agile, azure devops, git & tfvc, database, web api.
     - degree: Informatica
       university: Università di Genova
       time: 2018 - 2022
@@ -73,6 +73,10 @@ education:
           - SQL Relazionionale con DBMS PostgreSQL
           - Linguaggi a oggetti: Java, C#
           - Python con librerie Pandas e NumPy per il Data Science
+    - degree: Tecnico Gestione Aziendale Linguistica
+      university: Istituto Professionale per Agricoltura D. Aicardi
+      time: 2002 - 2007
+      details: |
 
 experiences:
     - role: Web Developer
