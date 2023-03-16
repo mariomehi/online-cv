@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Marien Mehillka   
-    tagline: Junior Web Developer
+    tagline: C# .NET Developer
     avatar: profilo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,19 +52,17 @@ sidebar:
 career-profile:
     title: Profilo
     summary: |
-      Ciao, il mio nome è Marien, nato in Albania il 24/06/1986, studente laureando all'Università di Genova con brevi esperienze di laboratori interni in ambito di Sviluppatore nel corso delle quali ha dato 
-      prova di impegno, motivazione e passione per un settore così complesso eppure coinvolgente come quello dell'Informatica.
-      Attitudine all'ascolto, capacità di apprendimento e grinta accompagnati ad una naturale propensione per il lavoro di squadra e 
-      obiettivi dimostrati in ambito scolastico e personale.
+      Ciao, il mio nome è Marien, nato in Albania il 24/06/1986, studente laureando all'Università di Genova con brevi esperienze di laboratori interni in ambito di sviluppatore e tanta passione per un settore così complesso e coinvolgente come quello dell'Informatica.
+      Attitudine all'ascolto, capacità di apprendimento e grinta accompagnati ad una naturale propensione per il lavoro di squadra in ambito scolastico e personale.
       Appassionato di internet e quello che ci gira intorno, dal web, alle applicazioni android/ios, a reti e network quali server e cloud.
 education:
     - degree: Corso FORMATEMP C# .NET
       university: 
       time: Marzo 2022 - Maggio 2022
-      details: Introduzione al mondo .NET, programmazione ad oggetti, code control, C# basics, agile, azure devops, git & tfvc, database, web api.
+      details: Introduzione al mondo .NET, programmazione ad oggetti, code control, C# basics, agile, azure devops, git, database, web api.
     - degree: Informatica
       university: Università di Genova
-      time: 2018 - 2022
+      time: 2018 - 2023
       details: |
          Nel 2018 iniziai l'Università di Genova con il corso in Informatica, andando ad approfondire le mie conoscenze in questo ambito e imparare nuovi linguaggi di programmazione. 
          Linguaggi e tecnologie trattate nei diversi corsi universitari:
@@ -80,20 +78,20 @@ education:
 
 experiences:
     - role: Web Developer
-      time: 2010 - 2018
+      time: 2010 - 2017
       company: Freelance
       details: |
-        Cominciai nel lontano 2007 con Forumfree, cms per creare forum, poichè appassionato di Videogiochi e imparando i linguaggi come HTML, CSS e PHP. 
-        Dopo qualche anno passai a Linux, con il primo server dedicato in Centos, gestito interamente da riga di commando senza nessun pannello di amministrazione. 
+        Cominciai nel lontano 2007 con Forumfree, cms per creare forum, appassionato di Videogiochi e imparando i linguaggi come HTML, CSS e PHP. 
+        Dopo qualche anno passai al primo server dedicato in Centos, gestito interamente da riga di commando senza nessun pannello di amministrazione. 
         Imparai le basi di Nginx e Apache web server, e tutte ciò che ne concerne da SSH, DNS, MySQL, FTP, Mail server con postfix e dovecot per posta SMTP con certificato SSL.
         All'inizio era solo un hobby ma poi è diventato quasi un lavoro perchè ho iniziato ad usare Google Adsense per guadagnare con gli sponsor.
-          - Web server Apache e Nginx e linguaggi HTML, CSS e Javascript, conoscenza base, e CMS popolari come Wordpress e InvisionPower Board
-          - PHP e MySQL, conoscenza intermedia per scopi personali e universitari, come il progetto di Sviluppo applicazioni web.
+          - Web server Apache e Nginx e linguaggi HTML, CSS e Javascript, conoscenza base, e CMS popolari come Wordpress e InvisionPower Board.
+          - PHP e MySQL, per scopi personali e universitari come il progetto di Sviluppo applicazioni web.
 projects:
     title: Progetti
     intro: >
       I progetti in questa sezione sono tutti didattici e universitari, realizzati in collaborazione con colleghi universitari.
-      Nel corso di Sviluppo Applicazioni Web io e un collega universitario abbiamo realizzato un sito clone di Netflix, senza la parte del video streaming, utilizzando tecnologie web come Ajax (jQuery) e Api:
+      Nel corso di Sviluppo Applicazioni Web insieme ad un collega universitario abbiamo realizzato un sito clone di Netflix, senza la parte di video streaming, utilizzando tecnologie web come Ajax (jQuery) e Api:
     assignments:
       - title: Sviluppo Applicazioni Web
         link: "https://github.com/mariomehi/saw2021"
@@ -118,19 +116,19 @@ skills:
         level: 55%
 
       - name: Java
-        level: 60%
+        level: 55%
 
       - name: HTML5 & CSS
-        level: 70%
-
-      - name: Javascript (jQuery)
         level: 65%
 
+      - name: Javascript (jQuery)
+        level: 55%
+
       - name: PHP & MySQL
-        level: 60%
+        level: 55%
         
       - name: RestAPI
-        level: 55%
+        level: 50%
         
       - name: Python
         level: 50%
