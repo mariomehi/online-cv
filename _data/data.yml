@@ -77,6 +77,13 @@ education:
       details: |
 
 experiences:
+    - role: Software Developer
+      time: 2022 - 2023
+      company: Cgm Consulting Srl, Torino Italia
+      details: |
+          - Sviluppo back-end di web application utilizzando web api, .Net Framework, SQL Server, Github, Swagger e Postman per api testing.
+          - Sviluppo e bug-fixing di 3 applicativi web, due in ASP.Net, HTML, CSS e Javascript e SQL Server per il database, e un applicativo basato su archittettura ASP.NET MVC con Razor.
+          - Insert, Update tramite SSMS (SQL) di richieste tramite sistema di ticketing.
     - role: Web Developer
       time: 2010 - 2017
       company: Freelance
@@ -87,13 +94,6 @@ experiences:
         All'inizio era solo un hobby ma poi è diventato quasi un lavoro perchè ho iniziato ad usare Google Adsense per guadagnare con gli sponsor.
           - Web server Apache e Nginx e linguaggi HTML, CSS e Javascript, conoscenza base, e CMS popolari come Wordpress e InvisionPower Board.
           - PHP e MySQL, per scopi personali e universitari come il progetto di Sviluppo applicazioni web.
-    - role: Software Developer
-      time: 2022 - 2023
-      company: Cgm Consulting Srl, Torino Italia
-      details: |
-          - Sviluppo back-end di web application utilizzando web api, .Net Framework, SQL Server, Github, Swagger e Postman per api testing.
-          - Sviluppo e bug-fixing di 3 applicativi web, due in ASP.Net, HTML, CSS e Javascript e SQL Server per il database, e un applicativo basato su archittettura ASP.NET MVC con Razor.
-          - Insert, Update tramite SSMS (SQL) di richieste tramite sistema di ticketing.
 projects:
     title: Progetti
     intro: >
