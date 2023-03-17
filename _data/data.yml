@@ -81,8 +81,8 @@ experiences:
       time: 2022 - 2023
       company: Cgm Consulting Srl, Torino Italia
       details: |
-          - Sviluppo back-end di web application utilizzando web api, .Net Framework, SQL Server, Github, Swagger e Postman per api testing.
-          - Sviluppo back-end/front-end e bug-fixing di 3 applicativi web, due in ASP.Net, HTML, CSS e Javascript e SQL Server per il database, e un applicativo basato su archittettura ASP.NET MVC con Razor.
+          - Sviluppo back-end di web application utilizzando web api, .Net Framework, Entity Framework, T-SQL, Github, Swagger e Postman per api testing.
+          - Sviluppo back-end/front-end e bug-fixing di 3 applicativi web, due in ASP.Net, HTML, CSS e Javascript e T-SQL per il database, e un applicativo basato su archittettura ASP.NET MVC con Razor.
           - Insert e Update tramite SSMS (SQL) di richieste tramite sistema di ticketing per il supporto dei 3 applicativi web.
     - role: Web Developer
       time: 2010 - 2017
